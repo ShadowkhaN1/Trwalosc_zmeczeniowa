@@ -1,0 +1,14 @@
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\bin\Debug\Trwalosc zmeczeniowa.exe.config
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\bin\Debug\Trwalosc zmeczeniowa.exe
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\bin\Debug\Trwalosc zmeczeniowa.pdb
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\obj\Debug\Trwalosc zmeczeniowa.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\obj\Debug\Trwalosc_zmeczeniowa.Form1.resources
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\obj\Debug\Trwalosc_zmeczeniowa.Properties.Resources.resources
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\obj\Debug\Trwalosc zmeczeniowa.csproj.GenerateResource.Cache
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\obj\Debug\Trwalosc zmeczeniowa.exe
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\obj\Debug\Trwalosc zmeczeniowa.pdb
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\obj\Debug\Trwalosc_zmeczeniowa.Form2.resources
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\obj\Debug\Trwalosc zmeczeniowa.exe.manifest
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\bin\Debug\Trwalosc zmeczeniowa.exe.manifest
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\bin\Debug\Trwalosc zmeczeniowa.application
+C:\Users\Łukasz\Desktop\Trwalosc zmeczeniowa c#\Trwalosc zmeczeniowa\Trwalosc zmeczeniowa\obj\Debug\Trwalosc zmeczeniowa.application
