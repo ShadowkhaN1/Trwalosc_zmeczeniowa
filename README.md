@@ -10,5 +10,5 @@ dla poszczególnych naprężeń. Program napisny przy użyciu C# oraz Windows Fo
 <a href=https://zapodaj.net/db46683690a5c.png.html>qweeee.PNG</a>
 
 # Wartości dla metody lokalnych ekstremów
-<img src="https://zapodaj.net/db46683690a5c.png" alt="screen2.png" border="0" />
+<img src="https://zapodaj.net/images/db46683690a5c.png" alt="screen2.png" border="0" />
 
