@@ -7,8 +7,8 @@ dla poszczególnych naprężeń. Program napisny przy użyciu C# oraz Windows Fo
 
 
 # W przedziale od -1 do 1
-<img src="http://wrzucaj.net/images/2015/02/10/screen_1179gr.png" alt="screen_1179gr.png" border="0" /> 
+<img src="https://zapodaj.net/c821d446c8632.png" alt="screen_1179gr.png" border="0" /> 
 
 # Wartości dla metody lokalnych ekstremów
-<img src="http://wrzucaj.net/images/2015/02/10/screen2.png" alt="screen2.png" border="0" />
+<img src="https://zapodaj.net/db46683690a5c.png" alt="screen2.png" border="0" />
 
